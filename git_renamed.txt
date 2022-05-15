@@ -1,0 +1,19 @@
+THIS IS THE FIRST COMMIT
+2 commit
+
+Using direct commit
+
+Check for initial snaphto
+
+2nd
+
+one change
+after one change
+-------------------------------------------------
+
+changes for stage
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+this 1 st change in branch chapter
+THIS IS MASTER IN git_renamed file

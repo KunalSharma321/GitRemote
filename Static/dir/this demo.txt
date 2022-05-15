@@ -1,0 +1,12 @@
+demo file
+check
+trial
+notepad
+_______________________________________________
+
+one change to test modify, next check
+after STAGED COMMAND
+
+after COMMIT that is STAGING AREA
+
+this is master in THIS DEMO file......
